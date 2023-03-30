@@ -10,5 +10,5 @@
 ## Pofesión
 ### Estudiante de la UCR
 
-[](img/cara.jpg)
+![](img/cara.jpg)
 
